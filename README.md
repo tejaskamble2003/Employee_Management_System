@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title:
 
 Employee Management (CRUD) System
@@ -93,3 +94,6 @@ Youtube URL: https://www.youtube.com/watch?v=_5sAmaRJd2c
 
 Date: 1 June, 2020
 
+=======
+# Employee_Management_System
+>>>>>>> cd24f4c505868076104a6aeeea0b6a60ea02eefc
